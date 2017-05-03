@@ -1,5 +1,5 @@
 # Data-Analysis-and-Visualization-Project-on-Player-Injury-Rate-in-English-Premiere-League-Using-Table
-The project deals with the data from the English Premier league (A major league soccer tournament) and it contains data from the year 2003 through to the year 2015.
+This project deals with the data from the English Premier league (A major league soccer tournament) and it contains data from the year 2003 through to the year 2015.
 Description of the dataset:
 The data source is an Excel file which has the injury stats of all the players of the team participating in the premier league. The source data contains around 9400 instances and nine fields or variables. These variables are used find the winning probability and the effect of injuries on the winning probability.
 The different fields available in the data are:
@@ -17,7 +17,6 @@ Choice of Graphs and Findings:
 We focus on the fact that the team with high injury rate has lesser title winning probability.
 We have taken the team “Arsenal Football Club” into consideration as it is the team with highest injury rate and has the most types of injuries suffered by team players. The visualization depicts how the number of injuries affects the team performance.
 
-Conclusion:
 • Average injuries occurred per team is greater with Arsenal FC.
 • Except for the year 2012, Arsenal FC has more injuries every season than Manchester United FC. This may be a reason for their failure to capture the league title.
 • Bar graph in image 3 shows hamstring injury as the highest reason for the casualties.
